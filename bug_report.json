@@ -1,1 +1,15 @@
-
+{
+"type": "bug-report",
+"summary": "The 'Login' field is disabled after clicking",
+"status": "New",
+"severity": "Major",
+"priority": "P1",
+"assigned to": "developer@example.com",
+"reported by": "tester@example.com",
+"CC": "manager@example.com", 
+"step_1": "Go to page: https://...",
+"step_2": "Click on the 'Login' field",
+"actual_result": "The 'Login' field is disabled",
+"screenshot": "Screenshot_1",
+"Expected result": "The 'Login' field is available for filling"
+}
